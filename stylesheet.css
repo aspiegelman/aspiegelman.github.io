@@ -1,0 +1,53 @@
+body{
+  font-family:fantasy;
+    color:blue;
+    text-align: center; 
+    background-color: lightpink;
+    font-size: 120%;
+    width: 960px;
+    margin: 0 auto;
+    padding: 30px;
+    
+}
+nav li{
+    
+    margin-left: 175px;
+    
+}
+h1{
+  text-align: center;  
+
+}
+figcaption{
+    
+    text-align: center
+}
+.breakfast1{
+    
+margin-left: 150px;
+}
+.breakfast2{
+    
+    margin-left: 150px;
+}
+.lunch1{
+    
+margin-left: 150px;
+}
+.lunch2{
+    
+margin-left: 150px;
+}
+.dinner1{
+    margin-left: 150px;
+}
+.dinner2{
+    margin-left: 150px;
+}
+a{
+    color: deeppink;
+    text-decoration: none;
+    border: 2px solid hotpink;
+    text-align: center;
+    padding: 1px;
+}
